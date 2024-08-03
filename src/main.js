@@ -2,6 +2,9 @@ const readXlsxFile = require('read-excel-file/node');
 const proj4 = require('proj4');
 const fs = require('fs');
 
+// Hämta filen "Statistiska tätorter 2020, befolkning, landareal, befolkningstäthet per tätort" från https://www.scb.se/hitta-statistik/statistik-efter-amne/miljo/markanvandning/tatorter-och-smaorter/
+// döp om filen till "data-scb.xlsx" och ta bort de första 8 raderna och ta bort newlines i titeln på kolumnerna som används nedan:
+
 const schema = {
     'Länsnamn': {
         prop: 'county'
