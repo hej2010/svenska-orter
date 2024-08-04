@@ -2472,7 +2472,7 @@
   {
     "county": "Västra Götaland",
     "municipality": "Sotenäs",
-    "locality": "Smögen, Kungshamn och Väjern*",
+    "locality": "Smögen, Kungshamn och Väjern",
     "population": 4743,
     "x-sweref99tm": 279695.33,
     "y-sweref99tm": 6476037.33,
@@ -2972,7 +2972,7 @@
   {
     "county": "Västra Götaland",
     "municipality": "Borås",
-    "locality": "Sjömarken och Viared*",
+    "locality": "Sjömarken och Viared",
     "population": 3830,
     "x-sweref99tm": 370613.1,
     "y-sweref99tm": 6397667.65,
@@ -6872,7 +6872,7 @@
   {
     "county": "Västra Götaland",
     "municipality": "Göteborg",
-    "locality": "Björlanda*",
+    "locality": "Björlanda",
     "population": 1150,
     "x-sweref99tm": 310729.31,
     "y-sweref99tm": 6406694.26,
@@ -8232,7 +8232,7 @@
   {
     "county": "Stockholm",
     "municipality": "Södertälje",
-    "locality": "Aska, Tuna och Sandviken*",
+    "locality": "Aska, Tuna och Sandviken",
     "population": 877,
     "x-sweref99tm": 641875.83,
     "y-sweref99tm": 6572128.38,
@@ -9572,7 +9572,7 @@
   {
     "county": "Södermanland",
     "municipality": "Eskilstuna",
-    "locality": "Gredbylund och Odlaren*",
+    "locality": "Gredbylund och Odlaren",
     "population": 700,
     "x-sweref99tm": 588878.66,
     "y-sweref99tm": 6580803.54,
@@ -12732,7 +12732,7 @@
   {
     "county": "Västra Götaland",
     "municipality": "Mölndal",
-    "locality": "Västra Balltorp*",
+    "locality": "Västra Balltorp",
     "population": 440,
     "x-sweref99tm": 321123.5,
     "y-sweref99tm": 6391019.28,
@@ -14872,7 +14872,7 @@
   {
     "county": "Stockholm",
     "municipality": "Norrtälje",
-    "locality": "Hattudden, Björnösund och Björknäs*",
+    "locality": "Hattudden, Björnösund och Björknäs",
     "population": 343,
     "x-sweref99tm": 716799.74,
     "y-sweref99tm": 6630837.71,
@@ -14922,7 +14922,7 @@
   {
     "county": "Stockholm",
     "municipality": "Värmdö",
-    "locality": "Södra Vindö*",
+    "locality": "Södra Vindö",
     "population": 342,
     "x-sweref99tm": 711167.62,
     "y-sweref99tm": 6582918.94,
@@ -15172,7 +15172,7 @@
   {
     "county": "Norrbotten",
     "municipality": "Kiruna",
-    "locality": "Laxforsen/Lintanen*",
+    "locality": "Laxforsen/Lintanen",
     "population": 331,
     "x-sweref99tm": 732182.33,
     "y-sweref99tm": 7537484.7,
@@ -15232,7 +15232,7 @@
   {
     "county": "Jämtland",
     "municipality": "Östersund",
-    "locality": "Fåker, Ålsta och Månsta*",
+    "locality": "Fåker, Ålsta och Månsta",
     "population": 330,
     "x-sweref99tm": 478490.12,
     "y-sweref99tm": 6983671.13,
@@ -16342,7 +16342,7 @@
   {
     "county": "Stockholm",
     "municipality": "Österåker",
-    "locality": "Näs*",
+    "locality": "Näs",
     "population": 291,
     "x-sweref99tm": 685035.76,
     "y-sweref99tm": 6596703.14,
@@ -17832,7 +17832,7 @@
   {
     "county": "Halland",
     "municipality": "Kungsbacka",
-    "locality": "Västra Hanhals*",
+    "locality": "Västra Hanhals",
     "population": 248,
     "x-sweref99tm": 324510.56,
     "y-sweref99tm": 6370796.8,
@@ -18122,7 +18122,7 @@
   {
     "county": "Halland",
     "municipality": "Kungsbacka",
-    "locality": "Östra Hanhals och Torkelstorp*",
+    "locality": "Östra Hanhals och Torkelstorp",
     "population": 239,
     "x-sweref99tm": 327167.01,
     "y-sweref99tm": 6370712.54,
@@ -18292,7 +18292,7 @@
   {
     "county": "Västra Götaland",
     "municipality": "Svenljunga",
-    "locality": "Sandsjön och Sågbacken*",
+    "locality": "Sandsjön och Sågbacken",
     "population": 235,
     "x-sweref99tm": 386610.64,
     "y-sweref99tm": 6388057.27,
@@ -18302,7 +18302,7 @@
   {
     "county": "Stockholm",
     "municipality": "Norrtälje",
-    "locality": "Tranvik och Ekebyholmshöjden*",
+    "locality": "Tranvik och Ekebyholmshöjden",
     "population": 235,
     "x-sweref99tm": 690078.26,
     "y-sweref99tm": 6629860.23,
@@ -18622,7 +18622,7 @@
   {
     "county": "Västra Götaland",
     "municipality": "Tibro",
-    "locality": "Bråbacka*",
+    "locality": "Bråbacka",
     "population": 227,
     "x-sweref99tm": 455011.02,
     "y-sweref99tm": 6480108.03,
@@ -19452,7 +19452,7 @@
   {
     "county": "Blekinge",
     "municipality": "Karlskrona",
-    "locality": "Färmanstorp och Skavkulla brygga*",
+    "locality": "Färmanstorp och Skavkulla brygga",
     "population": 212,
     "x-sweref99tm": 530799.13,
     "y-sweref99tm": 6225612.43,
@@ -19502,7 +19502,7 @@
   {
     "county": "Stockholm",
     "municipality": "Norrtälje",
-    "locality": "Husby*",
+    "locality": "Husby",
     "population": 211,
     "x-sweref99tm": 698398.49,
     "y-sweref99tm": 6628513.68,
@@ -19712,7 +19712,7 @@
   {
     "county": "Västra Götaland",
     "municipality": "Uddevalla",
-    "locality": "Ljungs Berg*",
+    "locality": "Ljungs Berg",
     "population": 207,
     "x-sweref99tm": 318309.01,
     "y-sweref99tm": 6458483.95,
@@ -19832,7 +19832,7 @@
   {
     "county": "Västra Götaland",
     "municipality": "Kungälv",
-    "locality": "Lycke och Bremnäs*",
+    "locality": "Lycke och Bremnäs",
     "population": 205,
     "x-sweref99tm": 306231.97,
     "y-sweref99tm": 6419366.56,
@@ -19882,7 +19882,7 @@
   {
     "county": "Skåne",
     "municipality": "Ystad",
-    "locality": "Trunnerup, Bleckstorp och Rögla*",
+    "locality": "Trunnerup, Bleckstorp och Rögla",
     "population": 204,
     "x-sweref99tm": 413785.37,
     "y-sweref99tm": 6152178.32,
@@ -19892,7 +19892,7 @@
   {
     "county": "Östergötland",
     "municipality": "Norrköping",
-    "locality": "Sidus*",
+    "locality": "Sidus",
     "population": 204,
     "x-sweref99tm": 577749.22,
     "y-sweref99tm": 6497642.42,
@@ -19942,7 +19942,7 @@
   {
     "county": "Västra Götaland",
     "municipality": "Kungälv",
-    "locality": "Hålta och Vävra*",
+    "locality": "Hålta och Vävra",
     "population": 203,
     "x-sweref99tm": 311325.91,
     "y-sweref99tm": 6421770.29,
@@ -19952,7 +19952,7 @@
   {
     "county": "Jönköping",
     "municipality": "Jönköping",
-    "locality": "Tovrida udde*",
+    "locality": "Tovrida udde",
     "population": 203,
     "x-sweref99tm": 463510.06,
     "y-sweref99tm": 6400970.11,
@@ -19972,7 +19972,7 @@
   {
     "county": "Norrbotten",
     "municipality": "Luleå",
-    "locality": "Södra Hertsölandet*",
+    "locality": "Södra Hertsölandet",
     "population": 202,
     "x-sweref99tm": 838889.13,
     "y-sweref99tm": 7289591.23,

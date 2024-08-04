@@ -246,7 +246,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 4838,"Tyringe",Hässleholm,Skåne,56.1593,13.6021,413180.91,6224688.52
 4836,"Gammelstaden",Luleå,Norrbotten,65.6262,22.0231,822878.55,7296302.01
 4821,"Öjersjö",Partille,Västra Götaland,57.6987,12.1261,328733.59,6398793.31
-4743,"Smögen, Kungshamn och Väjern*",Sotenäs,Västra Götaland,58.3697,11.2328,279695.33,6476037.33
+4743,"Smögen, Kungshamn och Väjern",Sotenäs,Västra Götaland,58.3697,11.2328,279695.33,6476037.33
 4741,"Vingåker",Vingåker,Södermanland,59.0496,15.8787,550410.44,6545904.12
 4741,"Hallstavik",Norrtälje,Stockholm,60.0463,18.5964,700250.09,6662015.35
 4740,"Töreboda",Töreboda,Västra Götaland,58.7067,14.1322,449721.98,6507722.21
@@ -296,7 +296,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 3875,"Skultorp",Skövde,Västra Götaland,58.3413,13.8337,431718.37,6467300.97
 3846,"Kisa",Kinda,Östergötland,57.9856,15.6317,537352.03,6427286.56
 3844,"Ursviken",Skellefteå,Västerbotten,64.7078,21.1772,794112.63,7190240.33
-3830,"Sjömarken och Viared*",Borås,Västra Götaland,57.7026,12.8288,370613.1,6397667.65
+3830,"Sjömarken och Viared",Borås,Västra Götaland,57.7026,12.8288,370613.1,6397667.65
 3773,"Svenljunga",Svenljunga,Västra Götaland,57.4959,13.1079,386603.4,6374172.34
 3761,"Bergnäset",Luleå,Norrbotten,65.5721,22.102,827174.74,7290713.11
 3749,"Karlsborg",Karlsborg,Västra Götaland,58.5406,14.5071,471306.35,6489001.13
@@ -686,7 +686,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 1162,"Södra Vi",Vimmerby,Kalmar,57.7378,15.7914,547120.34,6399799.49
 1157,"Kärna",Kungälv,Västra Götaland,57.8457,11.7976,309940.04,6416025.95
 1155,"Överum",Västervik,Kalmar,57.9899,16.3105,577483.08,6428336.09
-1150,"Björlanda*",Göteborg,Västra Götaland,57.7623,11.8183,310729.31,6406694.26
+1150,"Björlanda",Göteborg,Västra Götaland,57.7623,11.8183,310729.31,6406694.26
 1150,"Marielund",Strängnäs,Södermanland,59.2496,17.1785,624238.97,6569875.06
 1149,"Bläshammar och Trönningenäs",Varberg,Halland,57.1447,12.2416,333111.8,6336865.82
 1141,"Billingsfors",Bengtsfors,Västra Götaland,58.9828,12.2431,341556.75,6541399.17
@@ -822,7 +822,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 881,"Skavkulla och Skillingenäs",Karlskrona,Blekinge,56.1814,15.513,531841.47,6226384.71
 879,"Torsåker",Hofors,Gävleborg,60.511,16.4664,580522.53,6709220.93
 877,"Ullervad",Mariestad,Västra Götaland,58.6692,13.8503,433315.02,6503790.74
-877,"Aska, Tuna och Sandviken*",Södertälje,Stockholm,59.2643,17.4889,641875.83,6572128.38
+877,"Aska, Tuna och Sandviken",Södertälje,Stockholm,59.2643,17.4889,641875.83,6572128.38
 875,"Alstermo",Uppvidinge,Kronoberg,56.9728,15.6573,539956.43,6314553.05
 873,"Björnås",Åstorp,Skåne,56.1247,12.9638,373422.8,6221820.73
 872,"Jonsered",Partille,Västra Götaland,57.745,12.1734,331766.97,6403836.8
@@ -956,7 +956,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 702,"Sandhem",Mullsjö,Jönköping,57.9859,13.7683,427170.75,6427800.4
 701,"Strömsholm",Hallstahammar,Västmanland,59.5269,16.2373,569995.1,6599381.35
 701,"Lugnet och Skälsmara",Värmdö,Stockholm,59.248,18.533,701458.89,6573011.24
-700,"Gredbylund och Odlaren*",Eskilstuna,Södermanland,59.3566,16.5633,588878.66,6580803.54
+700,"Gredbylund och Odlaren",Eskilstuna,Södermanland,59.3566,16.5633,588878.66,6580803.54
 699,"Åsensbruk",Mellerud,Västra Götaland,58.7992,12.4254,351243.76,6520555.77
 696,"Simlångsdalen",Halmstad,Halland,56.7243,13.1284,385472.87,6288262.22
 695,"Valskog",Kungsör,Västmanland,59.4412,15.9447,553580.7,6589565.14
@@ -1272,7 +1272,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 441,"Enstaberga",Nyköping,Södermanland,58.7513,16.8546,607310.35,6513849.78
 441,"Danmark",Uppsala,Uppsala,59.8339,17.7442,653805.26,6636099.72
 441,"Ängsvik",Värmdö,Stockholm,59.3579,18.5142,699742.38,6585175.36
-440,"Västra Balltorp*",Mölndal,Västra Götaland,57.626,12.0044,321123.5,6391019.28
+440,"Västra Balltorp",Mölndal,Västra Götaland,57.626,12.0044,321123.5,6391019.28
 438,"Seskarö",Haparanda,Norrbotten,65.7372,23.7422,899824.55,7318501.27
 438,"Råda",Hagfors,Värmland,60.0022,13.5937,421569.55,6652492.57
 438,"Södersvik",Norrtälje,Stockholm,59.7479,18.9299,720779.54,6629875.2
@@ -1486,12 +1486,12 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 344,"Burgsvik",Gotland,Gotland,57.0334,18.276,698789.43,6325878.27
 343,"Sund",Trosa,Södermanland,58.9613,17.4097,638579.59,6538241.36
 343,"Tumbo",Eskilstuna,Södermanland,59.4242,16.3394,576001.9,6588051.68
-343,"Hattudden, Björnösund och Björknäs*",Norrtälje,Stockholm,59.7586,18.8602,716799.74,6630837.71
+343,"Hattudden, Björnösund och Björknäs",Norrtälje,Stockholm,59.7586,18.8602,716799.74,6630837.71
 343,"Sibble",Botkyrka,Stockholm,59.1113,17.7504,657477.82,6555695.25
 342,"Klövsjö",Berg,Jämtland,62.5291,14.1923,458431.87,6933382.1
 342,"Nya Långenäs",Härryda,Västra Götaland,57.6562,12.164,330794.81,6393974.17
 342,"Långasjö",Emmaboda,Kalmar,56.5837,15.4479,527511.76,6271136.98
-342,"Södra Vindö*",Värmdö,Stockholm,59.3321,18.7126,711167.62,6582918.94
+342,"Södra Vindö",Värmdö,Stockholm,59.3321,18.7126,711167.62,6582918.94
 339,"Los",Ljusdal,Gävleborg,61.7375,15.1679,508871.13,6844950.7
 339,"Tunnerstad",Jönköping,Jönköping,58.0509,14.3304,460476.39,6434573.18
 338,"Brändön",Luleå,Norrbotten,65.6973,22.3403,836484.79,7305854.42
@@ -1516,13 +1516,13 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 332,"Stånga",Gotland,Gotland,57.2834,18.4646,708812.31,6354243.25
 332,"Gryt",Valdemarsvik,Östergötland,58.1913,16.8249,607283.32,6451465.34
 332,"Äsköping",Katrineholm,Södermanland,59.147,16.0654,560947.07,6556904.56
-331,"Laxforsen/Lintanen*",Kiruna,Norrbotten,67.8586,20.5264,732182.33,7537484.7
+331,"Laxforsen/Lintanen",Kiruna,Norrbotten,67.8586,20.5264,732182.33,7537484.7
 331,"Gonäs",Ludvika,Dalarna,60.1477,15.0838,504655.9,6667864.75
 331,"Karlsbyheden och Blixbo",Falun,Dalarna,60.6377,15.8407,545985.3,6722725.75
 331,"Lysvik",Sunne,Värmland,60.0162,13.1344,395999.34,6654682.85
 331,"Morup",Falkenberg,Halland,56.9803,12.3998,341979.35,6318199.17
 330,"Korsträsk",Älvsbyn,Norrbotten,65.6677,20.8659,769380.84,7295449.36
-330,"Fåker, Ålsta och Månsta*",Östersund,Jämtland,62.9821,14.5756,478490.12,6983671.13
+330,"Fåker, Ålsta och Månsta",Östersund,Jämtland,62.9821,14.5756,478490.12,6983671.13
 330,"Hjälmared",Alingsås,Västra Götaland,57.8929,12.5393,354137.78,6419445.76
 330,"Eneryda",Älmhult,Kronoberg,56.7041,14.3371,459411.64,6284647.66
 329,"Svensbyn",Piteå,Norrbotten,65.3127,21.2385,790367.58,7257683.61
@@ -1633,7 +1633,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 291,"Myrviken",Berg,Jämtland,62.9954,14.3255,465829.62,6985257.23
 291,"Odensberg",Falköping,Västra Götaland,58.1542,13.4424,408332.61,6446936.41
 291,"Slottshagen, Bona, Helgö bol och Kungens täppa",Ekerö,Stockholm,59.2801,17.6735,652322.24,6574301.08
-291,"Näs*",Österåker,Stockholm,59.4679,18.266,685035.76,6596703.14
+291,"Näs",Österåker,Stockholm,59.4679,18.266,685035.76,6596703.14
 290,"Vidöåsen",Hammarö,Värmland,59.3426,13.454,412065.19,6579225.42
 289,"Sunnemo",Hagfors,Värmland,59.8911,13.7035,427447.67,6639992.69
 289,"Sanda",Strängnäs,Södermanland,59.4222,16.9844,612595.92,6588744.92
@@ -1782,7 +1782,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 248,"Östra Bispgården",Ragunda,Jämtland,63.0052,16.6672,584426.87,6987260.46
 248,"Segersta",Bollnäs,Gävleborg,61.27,16.6372,587791.51,6793956.58
 248,"Fiskebäckskil",Lysekil,Västra Götaland,58.242,11.4541,291877.45,6461133.14
-248,"Västra Hanhals*",Kungsbacka,Halland,57.4459,12.0756,324510.56,6370796.8
+248,"Västra Hanhals",Kungsbacka,Halland,57.4459,12.0756,324510.56,6370796.8
 248,"Skåne-Tranås",Tomelilla,Skåne,55.6146,13.9941,436645.3,6163648.78
 248,"Orrhammar",Flen,Södermanland,59.0812,16.5573,589255.79,6550132.85
 248,"Finsta",Norrtälje,Stockholm,59.736,18.4947,696416.48,6627189.57
@@ -1811,7 +1811,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 240,"Tuna",Vimmerby,Kalmar,57.5762,16.1055,566113.59,6382064.39
 239,"Norr Amsberg",Borlänge,Dalarna,60.5302,15.3536,519406.56,6710514.62
 239,"Hjortkvarn",Hallsberg,Örebro,58.8972,15.436,525122.05,6528692.16
-239,"Östra Hanhals och Torkelstorp*",Kungsbacka,Halland,57.4461,12.1199,327167.01,6370712.54
+239,"Östra Hanhals och Torkelstorp",Kungsbacka,Halland,57.4461,12.1199,327167.01,6370712.54
 239,"Vittskövle",Kristianstad,Skåne,55.8572,14.1492,446744.76,6190518.06
 239,"Angelstad",Ljungby,Kronoberg,56.8277,13.76,424324.33,6298889.86
 238,"Olshammar",Askersund,Örebro,58.7552,14.7969,488251.07,6512815.27
@@ -1828,8 +1828,8 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 236,"Kareby och Ringby",Kungälv,Västra Götaland,57.913,11.9221,317662.31,6423177.76
 236,"Utvälinge",Helsingborg,Skåne,56.2145,12.7851,362639.88,6232164.26
 236,"Tingstäde",Gotland,Gotland,57.7328,18.6042,714567.29,6404666.52
-235,"Sandsjön och Sågbacken*",Svenljunga,Västra Götaland,57.6206,13.1016,386610.64,6388057.27
-235,"Tranvik och Ekebyholmshöjden*",Norrtälje,Stockholm,59.7629,18.3846,690078.26,6629860.23
+235,"Sandsjön och Sågbacken",Svenljunga,Västra Götaland,57.6206,13.1016,386610.64,6388057.27
+235,"Tranvik och Ekebyholmshöjden",Norrtälje,Stockholm,59.7629,18.3846,690078.26,6629860.23
 234,"Repbäcken",Borlänge,Dalarna,60.5172,15.3405,518696.24,6709064.62
 234,"Olofsbo",Falkenberg,Halland,56.921,12.3912,341209.08,6311621.95
 234,"Nygårds hagar",Nykvarn,Stockholm,59.2171,17.2685,629495.33,6566425.04
@@ -1861,7 +1861,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 228,"Märsön",Enköping,Uppsala,59.5194,17.0019,613265.39,6599593.97
 227,"Hedlunda",Lycksele,Västerbotten,64.5367,18.7254,678636.99,7162066.51
 227,"Hustahöjden",Västerås,Västmanland,59.5646,16.4427,581523.39,6603809.69
-227,"Bråbacka*",Tibro,Västra Götaland,58.4593,14.229,455011.02,6480108.03
+227,"Bråbacka",Tibro,Västra Götaland,58.4593,14.229,455011.02,6480108.03
 227,"Larv",Vara,Västra Götaland,58.1908,13.1125,389032.89,6451504.96
 227,"Lundby och Malm",Norrköping,Östergötland,58.5544,16.2981,575535.12,6491167.16
 227,"Läby",Uppsala,Uppsala,60.09,17.5547,642082.18,6664180.57
@@ -1944,12 +1944,12 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 213,"Ormaryd",Nässjö,Jönköping,57.6659,14.823,489442.88,6391524.4
 213,"Grovstanäs, Hysingsvik och Solö",Norrtälje,Stockholm,59.6783,18.7272,709835.47,6621478.22
 212,"Vistträsk",Älvsbyn,Norrbotten,65.6914,20.6512,759306.42,7297185.5
-212,"Färmanstorp och Skavkulla brygga*",Karlskrona,Blekinge,56.1745,15.4961,530799.13,6225612.43
+212,"Färmanstorp och Skavkulla brygga",Karlskrona,Blekinge,56.1745,15.4961,530799.13,6225612.43
 211,"Kuttainen",Kiruna,Norrbotten,68.3798,22.8092,820377.88,7605550.25
 211,"Hoverberg",Berg,Jämtland,62.8131,14.4452,471718.16,6964884.44
 211,"Västra Torup",Hässleholm,Skåne,56.1422,13.5073,407249.98,6222908.59
 211,"Hörja",Hässleholm,Skåne,56.2038,13.5891,412471.57,6229661.58
-211,"Husby*",Norrtälje,Stockholm,59.747,18.5311,698398.49,6628513.68
+211,"Husby",Norrtälje,Stockholm,59.747,18.5311,698398.49,6628513.68
 210,"Laggarberg",Timrå,Västernorrland,62.4636,17.2469,615876.03,6927843.15
 210,"Västerberg",Sandviken,Gävleborg,60.5978,16.5556,585193.07,6718999
 210,"Sälgsjön",Gävle,Gävleborg,60.6173,17.1125,615612.25,6722024.67
@@ -1970,7 +1970,7 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 208,"Mollösund",Orust,Västra Götaland,58.082,11.4864,292845.07,6443229.76
 208,"Hjärsås",Östra Göinge,Skåne,56.2079,14.1471,447091.55,6229541.16
 208,"Buskhyttan",Nyköping,Södermanland,58.6609,16.939,612485.03,6503923.36
-207,"Ljungs Berg*",Uddevalla,Västra Götaland,58.2299,11.9057,318309.01,6458483.95
+207,"Ljungs Berg",Uddevalla,Västra Götaland,58.2299,11.9057,318309.01,6458483.95
 207,"Moarna",Varberg,Halland,57.0469,12.3549,339543.34,6325716.76
 206,"Jämtön",Luleå,Norrbotten,65.8529,22.4964,841542.2,7323946.54
 206,"Revsudden",Kalmar,Kalmar,56.7775,16.4775,590287.26,6293597.78
@@ -1982,21 +1982,21 @@ Population,Locality,Municipality,County,Latitude,Longitude,X-Sweref99TM,Y-Sweref
 205,"Norsbron",Karlstad,Värmland,59.3994,13.2268,399318.37,6585872.78
 205,"Magra",Alingsås,Västra Götaland,58.1121,12.6232,359967.19,6443658.97
 205,"Rossö",Strömstad,Västra Götaland,58.849,11.183,279821.19,6529520.77
-205,"Lycke och Bremnäs*",Kungälv,Västra Götaland,57.874,11.7326,306231.97,6419366.56
+205,"Lycke och Bremnäs",Kungälv,Västra Götaland,57.874,11.7326,306231.97,6419366.56
 205,"Sandkullen och Sågarehagen",Lerum,Västra Götaland,57.783,12.3995,345379.31,6407517.24
 204,"Slandrom",Östersund,Jämtland,63.1301,14.6423,481962.91,7000130.14
 204,"Gubbo",Smedjebacken,Dalarna,60.1802,15.32,517754.28,6671525.83
 204,"Ervalla",Örebro,Örebro,59.4391,15.2461,513957.31,6588974.26
-204,"Trunnerup, Bleckstorp och Rögla*",Ystad,Skåne,55.5081,13.6349,413785.37,6152178.32
-204,"Sidus*",Norrköping,Östergötland,58.6122,16.3383,577749.22,6497642.42
+204,"Trunnerup, Bleckstorp och Rögla",Ystad,Skåne,55.5081,13.6349,413785.37,6152178.32
+204,"Sidus",Norrköping,Östergötland,58.6122,16.3383,577749.22,6497642.42
 204,"Skebokvarn",Flen,Södermanland,59.066,16.7073,597893.98,6548648.83
 204,"Smidö",Upplands-Bro,Stockholm,59.4734,17.5521,644585.81,6595545.26
 203,"Svanstein",Övertorneå,Norrbotten,66.6535,23.8513,890354.28,7420515.25
 203,"Geijersholm",Hagfors,Värmland,60.066,13.7268,429126.65,6659447.9
-203,"Hålta och Vävra*",Kungälv,Västra Götaland,57.8978,11.8164,311325.91,6421770.29
-203,"Tovrida udde*",Jönköping,Jönköping,57.7493,14.3869,463510.06,6400970.11
+203,"Hålta och Vävra",Kungälv,Västra Götaland,57.8978,11.8164,311325.91,6421770.29
+203,"Tovrida udde",Jönköping,Jönköping,57.7493,14.3869,463510.06,6400970.11
 203,"Västra Älvsala",Värmdö,Stockholm,59.2967,18.6183,706023.38,6578691.16
-202,"Södra Hertsölandet*",Luleå,Norrbotten,65.5501,22.351,838889.13,7289591.23
+202,"Södra Hertsölandet",Luleå,Norrbotten,65.5501,22.351,838889.13,7289591.23
 202,"Botsmark",Umeå,Västerbotten,64.2537,20.2432,753908.68,7135754.47
 202,"Mjällom",Kramfors,Västernorrland,62.9856,18.4336,673943.17,6988630.23
 202,"Edsta",Hudiksvall,Gävleborg,61.7751,17.0047,605759.77,6850755.34

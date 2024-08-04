@@ -37,6 +37,7 @@ readXlsxFile('./src/data-scb.xlsx', { schema }).then(({ rows, errors }) => {
         const latLong = proj4(fromProjection, toProjection, [xSweref, ySweref]);
         r.lat = Math.round(latLong[1] * 10000) / 10000;
         r.lon = Math.round(latLong[0] * 10000) / 10000;
+        r.locality = r.locality.replace("*", "");
     }
 
     rows.sort((a, b) => (a.population < b.population ? 1 : -1));
